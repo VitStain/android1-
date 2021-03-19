@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_my_friend">Hello my Friend</string>
+    <string name="name">Name</string>
+    <string name="you">you</string>
+    <string name="good_luck_button">Good Luck Button</string>
+    <string name="success_mode">success mode</string>
+    <string name="wish_box">wish box</string>
+    <string name="execute">execute</string>
+    <string name="task2_3">Task 2–3</string>
+    <string name="person_name">Person Name</string>
+    <string name="phone">Phone</string>
+    <string name="number">Number</string>
+    <string name="password">Password</string>
+    <string name="email">Email@email.com</string>
+    <string name="_9999009090">9999009090</string>
+    <string name="_123">123</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="click_to_see_task_2_3">CLICK TO SEE TASK 2–3</string>
+
+
+</resources>
